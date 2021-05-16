@@ -95,7 +95,7 @@ main .main-input-container:hover{
 }
 
 main .main-input .search-icon {
-  background-image: url("/assets/search.svg");
+  background-image: url("https://raw.githubusercontent.com/RicardoArquimedes/clone-google-chrome/60b600e471c0a8ade62d18284b619d9c4155e9ea/assets/search.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -105,7 +105,7 @@ main .main-input .search-icon {
 }
 
 main .main-input .micro-icon {
-  background-image: url("/assets/microphone.svg");
+  background-image: url("https://raw.githubusercontent.com/RicardoArquimedes/clone-google-chrome/60b600e471c0a8ade62d18284b619d9c4155e9ea/assets/microphone.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
